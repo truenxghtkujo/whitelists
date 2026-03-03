@@ -1,2 +1,0 @@
-# whitelists
-wow
